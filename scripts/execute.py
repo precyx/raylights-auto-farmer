@@ -25,6 +25,7 @@ LAND_INDEX = 0;
 # 9. set the Recipes array to the recipes you want to farm
 # 10. set keyboard language to english-us
 
+# test.
 
 # todo
 
