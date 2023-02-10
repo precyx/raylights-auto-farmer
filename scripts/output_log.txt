@@ -1,0 +1,127 @@
+
+[09/02/2023 22:41:37] 
+
+<--- Starting Script --->
+[09/02/2023 22:41:37] output folder: output_images/2023-02-09 22:41:37
+[09/02/2023 22:49:32] TRYING_RELOADING_PAGE: Image "reference_images/settings_button.png" not found in time, trying to reload page...
+[09/02/2023 22:51:21] TRYING_RELOADING_PAGE: Image "reference_images/settings_button.png" not found in time, trying to reload page...
+[09/02/2023 22:56:47] TRYING_RELOADING_PAGE: Image "reference_images/settings_button.png" not found in time, trying to reload page...
+[09/02/2023 22:57:53] TRYING_RELOADING_PAGE: Image "reference_images/settings_button.png" not found in time, trying to reload page...
+[09/02/2023 23:04:01] 
+
+<--- Starting Script --->
+[09/02/2023 23:04:01] output folder: output_images/2023-02-09 23:04:01
+[09/02/2023 23:05:01] GROWING_PLANT_FOUND: -66,-1 moss_01 19
+[09/02/2023 23:08:11] 
+
+<--- Starting Script --->
+[09/02/2023 23:08:11] output folder: output_images/2023-02-09 23:08:11
+[09/02/2023 23:09:42] Growing Plant found: -67,1 moss_02 21
+[09/02/2023 23:10:19] Growing Plant found: -67,-1 moss_02 22
+[09/02/2023 23:10:56] Growing Plant found: -68,3 moss_02 23
+[09/02/2023 23:11:32] Growing Plant found: -68,2 moss_02 24
+[09/02/2023 23:12:09] Growing Plant found: -68,1 moss_02 25
+[09/02/2023 23:12:45] Growing Plant found: -68,0 moss_02 26
+[09/02/2023 23:13:19] Growing Plant found: -68,-1 moss_02 27
+[09/02/2023 23:14:27] TRYING_RELOADING_PAGE: Image "reference_images/settings_button.png" not found in time, trying to reload page...
+[09/02/2023 23:15:03] Growing Plant found: -69,3 moss_01 28
+[09/02/2023 23:15:42] Growing Plant found: -69,2 moss_02 29
+[09/02/2023 23:16:19] Growing Plant found: -69,1 moss_02 30
+[09/02/2023 23:16:56] Growing Plant found: -69,0 moss_01 31
+[09/02/2023 23:17:32] Growing Plant found: -69,-1 moss_01 32
+[09/02/2023 23:18:09] Growing Plant found: -101,-44 burdock_02 33
+[09/02/2023 23:18:46] Growing Plant found: -101,-45 burdock_01 34
+[09/02/2023 23:19:22] Growing Plant found: -101,-46 burdock_01 35
+[09/02/2023 23:19:59] Growing Plant found: -101,-47 burdock_01 36
+[09/02/2023 23:20:36] Growing Plant found: -101,-48 burdock_01 37
+[09/02/2023 23:21:13] Growing Plant found: -101,-49 burdock_02 38
+[09/02/2023 23:21:52] Growing Plant found: -102,-43 burdock_02 39
+[09/02/2023 23:22:29] Growing Plant found: -102,-45 burdock_02 40
+[09/02/2023 23:23:06] Growing Plant found: -102,-47 burdock_02 41
+[09/02/2023 23:23:43] Growing Plant found: -102,-48 burdock_02 42
+[09/02/2023 23:24:20] Growing Plant found: -101,-60 wisteria_01 43
+[09/02/2023 23:24:56] Growing Plant found: -103,-42 burdock_02 44
+[09/02/2023 23:25:33] Growing Plant found: -103,-43 burdock_02 45
+[09/02/2023 23:26:10] Growing Plant found: -103,-44 burdock_02 46
+[09/02/2023 23:26:47] Growing Plant found: -103,-45 burdock_02 47
+[09/02/2023 23:27:24] Growing Plant found: -103,-48 burdock_02 48
+[09/02/2023 23:28:26] Growing Plant found: -104,-42 burdock_02 50
+[09/02/2023 23:29:34] TRYING_RELOADING_PAGE: Image "reference_images/settings_button.png" not found in time, trying to reload page...
+[09/02/2023 23:30:10] Growing Plant found: -104,-43 burdock_02 51
+[09/02/2023 23:30:46] Growing Plant found: -104,-49 burdock_01 52
+[09/02/2023 23:31:23] Growing Plant found: -104,-59 burdock_02 53
+[09/02/2023 23:32:00] Growing Plant found: -105,27 clover_01 54
+[09/02/2023 23:32:34] Growing Plant found: -105,-41 burdock_01 55
+[09/02/2023 23:33:11] Growing Plant found: -105,-42 burdock_01 56
+[09/02/2023 23:34:19] TRYING_RELOADING_PAGE: Image "reference_images/settings_button.png" not found in time, trying to reload page...
+[09/02/2023 23:34:57] Growing Plant found: -105,-43 burdock_02 57
+[09/02/2023 23:35:34] Growing Plant found: -105,-44 burdock_01 58
+[09/02/2023 23:36:11] Growing Plant found: -106,-42 burdock_01 59
+[09/02/2023 23:36:45] Growing Plant found: -106,-44 burdock_01 60
+[09/02/2023 23:37:21] Growing Plant found: -109,-86 clover_01 61
+[09/02/2023 23:37:58] Growing Plant found: -115,-2 clover_02 62
+[09/02/2023 23:38:35] Growing Plant found: -82,17 burdock_02 63
+[09/02/2023 23:39:12] Growing Plant found: -112,-2 clover_01 64
+[09/02/2023 23:39:48] Growing Plant found: -76,-97 clover_01 65
+[09/02/2023 23:40:25] Growing Plant found: -52,19 moss_01 66
+[09/02/2023 23:41:02] Growing Plant found: -52,20 moss_01 67
+[09/02/2023 23:41:39] Growing Plant found: -50,-55 moss_01 68
+[09/02/2023 23:42:15] Growing Plant found: -50,-54 moss_01 69
+[09/02/2023 23:42:52] Growing Plant found: -112,-3 clover_02 70
+[09/02/2023 23:43:29] Growing Plant found: -86,7 burdock_02 71
+[09/02/2023 23:44:06] Growing Plant found: -49,-57 moss_02 72
+[09/02/2023 23:44:42] Growing Plant found: -49,-56 moss_02 73
+[09/02/2023 23:45:19] Growing Plant found: -49,-55 moss_02 74
+[09/02/2023 23:45:56] Growing Plant found: -49,-54 moss_01 75
+[09/02/2023 23:46:58] Growing Plant found: -85,-110 clover_01 77
+[09/02/2023 23:47:34] Growing Plant found: -83,17 burdock_01 78
+[09/02/2023 23:48:11] Growing Plant found: -48,-76 clover_01 79
+[09/02/2023 23:48:48] Growing Plant found: -48,-56 moss_02 80
+[09/02/2023 23:49:25] Growing Plant found: -48,-55 moss_01 81
+[09/02/2023 23:50:02] Growing Plant found: -48,-54 moss_01 82
+[09/02/2023 23:50:38] Growing Plant found: -92,-25 burdock_02 83
+[09/02/2023 23:51:15] Growing Plant found: -112,-1 clover_01 84
+[09/02/2023 23:51:52] Growing Plant found: -83,18 burdock_01 85
+[09/02/2023 23:52:54] Growing Plant found: -83,16 burdock_02 87
+[09/02/2023 23:53:53] Growing Plant found: -87,-44 clover_01 89
+[09/02/2023 23:54:30] Growing Plant found: -101,29 clover_01 90
+[09/02/2023 23:55:07] Growing Plant found: -101,-43 burdock_02 91
+[09/02/2023 23:55:44] Growing Plant found: -39,-132 clover_01 92
+[09/02/2023 23:56:23] Growing Plant found: -38,-133 clover_02 93
+[09/02/2023 23:57:03] Growing Plant found: -38,-132 clover_01 94
+[09/02/2023 23:58:11] TRYING_RELOADING_PAGE: Image "reference_images/settings_button.png" not found in time, trying to reload page...
+[09/02/2023 23:59:02] Growing Plant found: -38,-131 clover_01 95
+[09/02/2023 23:59:47] Growing Plant found: -38,-130 clover_01 96
+[10/02/2023 00:00:24] Growing Plant found: -37,-125 clover_01 97
+[10/02/2023 00:01:01] Growing Plant found: -37,-103 clover_01 98
+[10/02/2023 00:01:37] Growing Plant found: -36,-104 clover_01 99
+[10/02/2023 00:02:14] Growing Plant found: -36,-103 clover_02 100
+[10/02/2023 00:02:51] Growing Plant found: -36,-102 deschampsia_01 101
+[10/02/2023 00:03:28] Growing Plant found: -36,-101 clover_02 102
+[10/02/2023 00:04:05] Growing Plant found: -35,-105 clover_02 103
+[10/02/2023 00:04:41] Growing Plant found: -35,-104 clover_02 104
+[10/02/2023 00:05:18] Growing Plant found: -35,-103 clover_02 105
+[10/02/2023 00:05:55] Growing Plant found: -35,-102 clover_02 106
+[10/02/2023 00:06:32] Growing Plant found: -35,-101 clover_02 107
+[10/02/2023 00:07:09] Growing Plant found: -34,-105 clover_02 108
+[10/02/2023 00:07:46] Growing Plant found: -34,-104 clover_02 109
+[10/02/2023 00:07:47] <--- Script Finished --->
+[10/02/2023 09:52:42] 
+
+<--- Starting Script --->
+[10/02/2023 09:52:42] output folder: output_images/2023-02-10 09:52:42
+[10/02/2023 09:52:52] 
+
+<--- Starting Script --->
+[10/02/2023 09:52:52] output folder: output_images/2023-02-10 09:52:52
+[10/02/2023 09:53:29] 
+
+<--- Starting Script --->
+[10/02/2023 09:53:29] output folder: output_images/2023-02-10 09:53:29
+[10/02/2023 09:53:50] Enter Land: -82,-117
+[10/02/2023 09:54:15] Enter Land: -67,0
+[10/02/2023 09:54:22] Time difference: 0:00:24
+[10/02/2023 09:54:37] Enter Land: -132,-92
+[10/02/2023 09:54:44] Time difference: 0:00:22
+[10/02/2023 09:55:02] Enter Land: -53,20
+[10/02/2023 09:55:09] Time difference: 0:00:24
