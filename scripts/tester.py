@@ -29,7 +29,7 @@ for label in labels:
 print(mouse_positions)
 
 # save the array to a file
-with open('tester.txt', 'w') as f:
+with open('output_data/tester/tester.txt', 'w') as f:
     for item in mouse_positions:
         f.write("" + "'" + str(item[0]) + "'" + ":" + "[" + str(item[1])  + "," + str(item[2]) + "]," + "\n")
             
