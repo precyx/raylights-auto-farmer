@@ -21,6 +21,11 @@ labels =  [
     "Nursery",
     "Items",
     "Claim Button",
+    "New Plant Screen TopLeft",
+    "New Plant Screen TopRight",
+    "New Plant Screen BottomLeft",
+    "New Plant Screen BottomRight",
+    "Continue New Plant Button",
     "Console Output Line Start",
     "Console Output Line End",
     "Clear Console",
@@ -68,13 +73,13 @@ for label in labels:
 print(mouse_positions)
 
 # save the array to a file
-with open('mouse_positions.txt', 'w') as f:
+with open('output_data/record/mouse_positions.txt', 'w') as f:
     for item in mouse_positions:
         f.write("" + "'" + str(item[0]) + "'" + ":" + "[" + str(item[1])  + "," + str(item[2]) + "]," + "\n")
             
 
 # save the array to a file
-with open('mineral_positions.txt', 'w') as f:       
+with open('output_data/record/mineral_positions.txt', 'w') as f:       
     for item in mouse_positions:
         # write if item[0] conatins "Mineral ":
         if("Mineral " in item[0]):

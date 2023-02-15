@@ -1,0 +1,878 @@
+
+[14/02/2023 17:09:39] 
+
+
+
+<--- Starting Script --->
+[14/02/2023 17:09:39] Trying to plant: 120 recipes
+[14/02/2023 17:09:39] Starting at land index: 0 -82,-117 - going to 120 -144,-55
+[14/02/2023 17:10:10] Enter Land: -82,-117 - 0
+
+14.Feb 17:10
+[14/02/2023 17:10:49] "041618" - RecipeIndex(0) - LandIndex(0) [-82,-117]
+[14/02/2023 17:10:51] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:11:14] Enter Land: -67,0 - 1
+[14/02/2023 17:11:50] "851618" - RecipeIndex(1) - LandIndex(1) [-67,0]
+[14/02/2023 17:11:52] Time difference: 0:01:01
+[14/02/2023 17:11:52] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:12:13] Enter Land: -132,-92 - 2
+[14/02/2023 17:12:50] "845618" - RecipeIndex(2) - LandIndex(2) [-132,-92]
+[14/02/2023 17:12:52] Time difference: 0:01:00
+[14/02/2023 17:12:52] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:13:11] Enter Land: -53,20 - 3
+[14/02/2023 17:13:44] "841518" - RecipeIndex(3) - LandIndex(3) [-53,20]
+[14/02/2023 17:13:46] Time difference: 0:00:53
+[14/02/2023 17:13:46] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:14:04] Enter Land: -53,19 - 4
+[14/02/2023 17:14:40] "841658" - RecipeIndex(4) - LandIndex(4) [-53,19]
+[14/02/2023 17:14:42] Time difference: 0:00:55
+[14/02/2023 17:14:42] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:15:00] Enter Land: -53,-7 - 5
+[14/02/2023 17:15:43] "841615" - RecipeIndex(5) - LandIndex(5) [-53,-7]
+[14/02/2023 17:15:45] Time difference: 0:01:03
+[14/02/2023 17:15:45] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:16:04] Enter Land: -54,20 - 6
+[14/02/2023 17:16:37] "841618" - RecipeIndex(6) - LandIndex(6) [-54,20]
+[14/02/2023 17:16:39] Time difference: 0:00:53
+[14/02/2023 17:16:39] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:16:58] Enter Land: -54,19 - 7
+[14/02/2023 17:17:31] "841618" - RecipeIndex(7) - LandIndex(7) [-54,19]
+[14/02/2023 17:17:33] Time difference: 0:00:53
+[14/02/2023 17:17:33] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:18:41] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 17:18:59] Enter Land: -54,18 - 8
+[14/02/2023 17:19:42] "841618" - RecipeIndex(8) - LandIndex(8) [-54,18]
+[14/02/2023 17:19:44] Time difference: 0:02:10
+[14/02/2023 17:19:44] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:20:02] Enter Land: -55,20 - 9
+
+14.Feb 17:20
+[14/02/2023 17:20:48] "91A689" - RecipeIndex(9) - LandIndex(9) [-55,20]
+[14/02/2023 17:20:50] Time difference: 0:01:05
+[14/02/2023 17:20:50] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:21:08] Enter Land: -55,19 - 10
+[14/02/2023 17:21:57] "92A689" - RecipeIndex(10) - LandIndex(10) [-55,19]
+[14/02/2023 17:21:59] Time difference: 0:01:09
+[14/02/2023 17:21:59] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:22:18] Enter Land: -56,20 - 11
+[14/02/2023 17:22:57] "93A689" - RecipeIndex(11) - LandIndex(11) [-56,20]
+[14/02/2023 17:22:59] Time difference: 0:00:59
+[14/02/2023 17:22:59] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:23:17] Enter Land: -65,2 - 12
+[14/02/2023 17:23:51] "94A689" - RecipeIndex(12) - LandIndex(12) [-65,2]
+[14/02/2023 17:23:53] Time difference: 0:00:53
+[14/02/2023 17:23:53] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:24:11] Enter Land: -65,1 - 13
+[14/02/2023 17:24:52] "95A689" - RecipeIndex(13) - LandIndex(13) [-65,1]
+[14/02/2023 17:24:54] Time difference: 0:01:01
+[14/02/2023 17:24:54] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:25:13] Enter Land: -65,0 - 14
+[14/02/2023 17:25:56] "97A689" - RecipeIndex(14) - LandIndex(14) [-65,0]
+[14/02/2023 17:25:58] Time difference: 0:01:03
+[14/02/2023 17:25:58] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:26:19] Enter Land: -65,-1 - 15
+[14/02/2023 17:26:53] "99A689" - RecipeIndex(15) - LandIndex(15) [-65,-1]
+[14/02/2023 17:26:55] Time difference: 0:00:56
+[14/02/2023 17:26:55] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:27:13] Enter Land: -66,2 - 16
+[14/02/2023 17:27:54] "90A689" - RecipeIndex(16) - LandIndex(16) [-66,2]
+[14/02/2023 17:27:56] Time difference: 0:01:01
+[14/02/2023 17:27:56] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:28:15] Enter Land: -66,1 - 17
+[14/02/2023 17:28:58] "9AA689" - RecipeIndex(17) - LandIndex(17) [-66,1]
+[14/02/2023 17:29:00] Time difference: 0:01:03
+[14/02/2023 17:29:00] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:29:18] Enter Land: -66,0 - 18
+[14/02/2023 17:29:51] "9BA689" - RecipeIndex(18) - LandIndex(18) [-66,0]
+[14/02/2023 17:29:53] Time difference: 0:00:53
+[14/02/2023 17:29:54] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:30:09] Enter Land: -66,-1 - 19
+[14/02/2023 17:30:43] "96A189" - RecipeIndex(19) - LandIndex(19) [-66,-1]
+[14/02/2023 17:30:45] Time difference: 0:00:51
+[14/02/2023 17:30:45] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:31:03] Enter Land: -67,3 - 20
+[14/02/2023 17:31:46] "96A289" - RecipeIndex(20) - LandIndex(20) [-67,3]
+[14/02/2023 17:31:48] Time difference: 0:01:03
+[14/02/2023 17:31:48] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:32:04] Enter Land: -67,1 - 21
+[14/02/2023 17:32:49] "96A389" - RecipeIndex(21) - LandIndex(21) [-67,1]
+[14/02/2023 17:32:51] Time difference: 0:01:03
+[14/02/2023 17:32:51] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:33:07] Enter Land: -67,-1 - 22
+[14/02/2023 17:33:56] "96A489" - RecipeIndex(22) - LandIndex(22) [-67,-1]
+[14/02/2023 17:33:58] Time difference: 0:01:06
+[14/02/2023 17:33:58] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:34:17] Enter Land: -68,3 - 23
+[14/02/2023 17:34:56] "96A589" - RecipeIndex(23) - LandIndex(23) [-68,3]
+[14/02/2023 17:34:58] Time difference: 0:00:59
+[14/02/2023 17:34:58] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:35:16] Enter Land: -68,2 - 24
+[14/02/2023 17:35:50] "96A789" - RecipeIndex(24) - LandIndex(24) [-68,2]
+[14/02/2023 17:35:52] Time difference: 0:00:53
+[14/02/2023 17:35:52] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:36:10] Enter Land: -68,1 - 25
+[14/02/2023 17:36:51] "96A989" - RecipeIndex(25) - LandIndex(25) [-68,1]
+[14/02/2023 17:36:53] Time difference: 0:01:01
+[14/02/2023 17:36:54] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:37:12] Enter Land: -68,0 - 26
+[14/02/2023 17:37:55] "96A089" - RecipeIndex(26) - LandIndex(26) [-68,0]
+[14/02/2023 17:37:57] Time difference: 0:01:03
+[14/02/2023 17:37:57] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:38:15] Enter Land: -68,-1 - 27
+[14/02/2023 17:38:49] "96AA89" - RecipeIndex(27) - LandIndex(27) [-68,-1]
+[14/02/2023 17:38:51] Time difference: 0:00:53
+[14/02/2023 17:38:51] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:39:09] Enter Land: -69,3 - 28
+[14/02/2023 17:39:50] "96AB89" - RecipeIndex(28) - LandIndex(28) [-69,3]
+[14/02/2023 17:39:52] Time difference: 0:01:01
+[14/02/2023 17:39:52] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:40:11] Enter Land: -69,2 - 29
+[14/02/2023 17:40:54] "51545A" - RecipeIndex(29) - LandIndex(29) [-69,2]
+[14/02/2023 17:40:56] Time difference: 0:01:03
+
+14.Feb 17:40
+[14/02/2023 17:40:56] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:41:14] Enter Land: -69,1 - 30
+[14/02/2023 17:41:46] "52545A" - RecipeIndex(30) - LandIndex(30) [-69,1]
+[14/02/2023 17:41:48] Time difference: 0:00:51
+[14/02/2023 17:41:48] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:42:06] Enter Land: -69,0 - 31
+[14/02/2023 17:42:40] "53545A" - RecipeIndex(31) - LandIndex(31) [-69,0]
+[14/02/2023 17:42:42] Time difference: 0:00:53
+[14/02/2023 17:42:42] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:43:00] Enter Land: -69,-1 - 32
+[14/02/2023 17:43:43] "56545A" - RecipeIndex(32) - LandIndex(32) [-69,-1]
+[14/02/2023 17:43:45] Time difference: 0:01:03
+[14/02/2023 17:43:45] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:44:54] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 17:45:09] Enter Land: -101,-44 - 33
+[14/02/2023 17:45:54] "57545A" - RecipeIndex(33) - LandIndex(33) [-101,-44]
+[14/02/2023 17:45:56] Time difference: 0:02:10
+[14/02/2023 17:45:56] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:46:15] Enter Land: -101,-45 - 34
+[14/02/2023 17:47:04] "58545A" - RecipeIndex(34) - LandIndex(34) [-101,-45]
+[14/02/2023 17:47:06] Time difference: 0:01:10
+[14/02/2023 17:47:06] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:47:25] Enter Land: -101,-46 - 35
+[14/02/2023 17:48:04] "59545A" - RecipeIndex(35) - LandIndex(35) [-101,-46]
+[14/02/2023 17:48:06] Time difference: 0:00:59
+[14/02/2023 17:48:06] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:48:25] Enter Land: -101,-47 - 36
+[14/02/2023 17:48:56] "50545A" - RecipeIndex(36) - LandIndex(36) [-101,-47]
+[14/02/2023 17:48:58] Time difference: 0:00:52
+[14/02/2023 17:48:59] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:49:20] Enter Land: -101,-48 - 37
+[14/02/2023 17:50:01] "5A545A" - RecipeIndex(37) - LandIndex(37) [-101,-48]
+[14/02/2023 17:50:03] Time difference: 0:01:04
+[14/02/2023 17:50:03] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:50:25] Enter Land: -101,-49 - 38
+[14/02/2023 17:51:08] "5B545A" - RecipeIndex(38) - LandIndex(38) [-101,-49]
+[14/02/2023 17:51:10] Time difference: 0:01:06
+[14/02/2023 17:51:10] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:51:31] Enter Land: -102,-43 - 39
+[14/02/2023 17:52:05] "54515A" - RecipeIndex(39) - LandIndex(39) [-102,-43]
+[14/02/2023 17:52:07] Time difference: 0:00:57
+[14/02/2023 17:52:07] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:52:28] Enter Land: -102,-45 - 40
+[14/02/2023 17:53:08] "54525A" - RecipeIndex(40) - LandIndex(40) [-102,-45]
+[14/02/2023 17:53:10] Time difference: 0:01:03
+[14/02/2023 17:53:10] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:53:29] Enter Land: -102,-47 - 41
+[14/02/2023 17:54:12] "54535A" - RecipeIndex(41) - LandIndex(41) [-102,-47]
+[14/02/2023 17:54:14] Time difference: 0:01:03
+[14/02/2023 17:54:14] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:54:33] Enter Land: -102,-48 - 42
+[14/02/2023 17:55:06] "54555A" - RecipeIndex(42) - LandIndex(42) [-102,-48]
+[14/02/2023 17:55:08] Time difference: 0:00:54
+[14/02/2023 17:55:08] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:55:27] Enter Land: -101,-60 - 43
+[14/02/2023 17:56:12] "54565A" - RecipeIndex(43) - LandIndex(43) [-101,-60]
+[14/02/2023 17:56:14] Time difference: 0:01:06
+[14/02/2023 17:56:15] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:56:33] Enter Land: -103,-42 - 44
+[14/02/2023 17:57:22] "54575A" - RecipeIndex(44) - LandIndex(44) [-103,-42]
+[14/02/2023 17:57:24] Time difference: 0:01:10
+[14/02/2023 17:57:25] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:57:43] Enter Land: -103,-43 - 45
+[14/02/2023 17:58:34] "54585A" - RecipeIndex(45) - LandIndex(45) [-103,-43]
+[14/02/2023 17:58:36] Time difference: 0:01:11
+[14/02/2023 17:58:37] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 17:58:58] Enter Land: -103,-44 - 46
+[14/02/2023 17:59:49] "54595A" - RecipeIndex(46) - LandIndex(46) [-103,-44]
+[14/02/2023 17:59:52] Time difference: 0:01:15
+[14/02/2023 17:59:52] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:00:13] Enter Land: -103,-45 - 47
+[14/02/2023 18:00:55] "54505A" - RecipeIndex(47) - LandIndex(47) [-103,-45]
+[14/02/2023 18:00:57] Time difference: 0:01:05
+[14/02/2023 18:00:57] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:01:15] Enter Land: -103,-48 - 48
+[14/02/2023 18:01:49] "545A5A" - RecipeIndex(48) - LandIndex(48) [-103,-48]
+[14/02/2023 18:01:51] Time difference: 0:00:53
+[14/02/2023 18:01:51] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:02:07] Enter Land: -103,-49 - 49
+[14/02/2023 18:02:46] "545B5A" - RecipeIndex(49) - LandIndex(49) [-103,-49]
+[14/02/2023 18:02:48] Time difference: 0:00:57
+[14/02/2023 18:02:48] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:03:07] Enter Land: -104,-42 - 50
+[14/02/2023 18:03:40] "433414" - RecipeIndex(50) - LandIndex(50) [-104,-42]
+[14/02/2023 18:03:42] Time difference: 0:00:54
+
+14.Feb 18:03
+[14/02/2023 18:03:42] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:04:01] Enter Land: -104,-43 - 51
+[14/02/2023 18:04:43] "413414" - RecipeIndex(51) - LandIndex(51) [-104,-43]
+[14/02/2023 18:04:46] Time difference: 0:01:03
+[14/02/2023 18:04:46] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:05:04] Enter Land: -104,-49 - 52
+[14/02/2023 18:05:50] "423414" - RecipeIndex(52) - LandIndex(52) [-104,-49]
+[14/02/2023 18:05:52] Time difference: 0:01:06
+[14/02/2023 18:05:52] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:06:13] Enter Land: -104,-59 - 53
+[14/02/2023 18:07:01] "443414" - RecipeIndex(53) - LandIndex(53) [-104,-59]
+[14/02/2023 18:07:03] Time difference: 0:01:10
+[14/02/2023 18:07:03] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:07:21] Enter Land: -105,27 - 54
+[14/02/2023 18:07:55] "453414" - RecipeIndex(54) - LandIndex(54) [-105,27]
+[14/02/2023 18:07:57] Time difference: 0:00:54
+[14/02/2023 18:07:57] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:08:18] Enter Land: -105,-41 - 55
+[14/02/2023 18:09:01] "463414" - RecipeIndex(55) - LandIndex(55) [-105,-41]
+[14/02/2023 18:09:03] Time difference: 0:01:06
+[14/02/2023 18:09:03] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:09:22] Enter Land: -105,-42 - 56
+[14/02/2023 18:10:07] "473414" - RecipeIndex(56) - LandIndex(56) [-105,-42]
+[14/02/2023 18:10:09] Time difference: 0:01:06
+[14/02/2023 18:10:09] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:10:28] Enter Land: -105,-43 - 57
+[14/02/2023 18:11:19] "483414" - RecipeIndex(57) - LandIndex(57) [-105,-43]
+[14/02/2023 18:11:21] Time difference: 0:01:11
+[14/02/2023 18:11:21] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:11:40] Enter Land: -105,-44 - 58
+[14/02/2023 18:12:21] "493414" - RecipeIndex(58) - LandIndex(58) [-105,-44]
+[14/02/2023 18:12:23] Time difference: 0:01:01
+[14/02/2023 18:12:23] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:12:41] Enter Land: -106,-42 - 59
+[14/02/2023 18:13:24] "403414" - RecipeIndex(59) - LandIndex(59) [-106,-42]
+[14/02/2023 18:13:26] Time difference: 0:01:03
+[14/02/2023 18:13:26] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:13:45] Enter Land: -106,-44 - 60
+[14/02/2023 18:14:18] "4B3414" - RecipeIndex(60) - LandIndex(60) [-106,-44]
+[14/02/2023 18:14:20] Time difference: 0:00:53
+[14/02/2023 18:14:20] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:14:39] Enter Land: -109,-86 - 61
+[14/02/2023 18:15:18] "431414" - RecipeIndex(61) - LandIndex(61) [-109,-86]
+[14/02/2023 18:15:20] Time difference: 0:00:59
+[14/02/2023 18:15:20] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:15:41] Enter Land: -115,-2 - 62
+[14/02/2023 18:16:14] "432414" - RecipeIndex(62) - LandIndex(62) [-115,-2]
+[14/02/2023 18:16:16] Time difference: 0:00:56
+[14/02/2023 18:16:16] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:16:37] Enter Land: -82,17 - 63
+[14/02/2023 18:17:20] "434414" - RecipeIndex(63) - LandIndex(63) [-82,17]
+[14/02/2023 18:17:22] Time difference: 0:01:06
+[14/02/2023 18:17:23] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:17:41] Enter Land: -112,-2 - 64
+[14/02/2023 18:18:27] "435414" - RecipeIndex(64) - LandIndex(64) [-112,-2]
+[14/02/2023 18:18:29] Time difference: 0:01:06
+[14/02/2023 18:18:29] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:18:50] Enter Land: -76,-97 - 65
+[14/02/2023 18:19:37] "436414" - RecipeIndex(65) - LandIndex(65) [-76,-97]
+[14/02/2023 18:19:39] Time difference: 0:01:10
+[14/02/2023 18:19:40] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:20:01] Enter Land: -52,19 - 66
+[14/02/2023 18:20:32] "437414" - RecipeIndex(66) - LandIndex(66) [-52,19]
+[14/02/2023 18:20:34] Time difference: 0:00:54
+[14/02/2023 18:20:34] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:20:53] Enter Land: -52,20 - 67
+[14/02/2023 18:21:35] "438414" - RecipeIndex(67) - LandIndex(67) [-52,20]
+[14/02/2023 18:21:37] Time difference: 0:01:03
+[14/02/2023 18:21:38] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:21:56] Enter Land: -50,-55 - 68
+[14/02/2023 18:22:41] "439414" - RecipeIndex(68) - LandIndex(68) [-50,-55]
+[14/02/2023 18:22:43] Time difference: 0:01:05
+[14/02/2023 18:22:43] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:23:01] Enter Land: -50,-54 - 69
+[14/02/2023 18:23:52] "430414" - RecipeIndex(69) - LandIndex(69) [-50,-54]
+[14/02/2023 18:23:54] Time difference: 0:01:11
+[14/02/2023 18:23:54] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:24:13] Enter Land: -112,-3 - 70
+[14/02/2023 18:24:54] "43B414" - RecipeIndex(70) - LandIndex(70) [-112,-3]
+[14/02/2023 18:24:56] Time difference: 0:01:01
+[14/02/2023 18:24:56] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:25:14] Enter Land: -86,7 - 71
+[14/02/2023 18:25:57] "AA4414" - RecipeIndex(71) - LandIndex(71) [-86,7]
+[14/02/2023 18:25:59] Time difference: 0:01:03
+
+14.Feb 18:25
+[14/02/2023 18:25:59] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:26:18] Enter Land: -49,-57 - 72
+[14/02/2023 18:26:51] "4AA414" - RecipeIndex(72) - LandIndex(72) [-49,-57]
+[14/02/2023 18:26:53] Time difference: 0:00:53
+[14/02/2023 18:26:53] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:27:11] Enter Land: -49,-56 - 73
+[14/02/2023 18:27:50] "40AA14" - RecipeIndex(73) - LandIndex(73) [-49,-56]
+[14/02/2023 18:27:52] Time difference: 0:00:59
+[14/02/2023 18:27:52] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:28:08] Enter Land: -49,-55 - 74
+[14/02/2023 18:28:41] "404554" - RecipeIndex(74) - LandIndex(74) [-49,-55]
+[14/02/2023 18:28:43] Time difference: 0:00:50
+[14/02/2023 18:28:43] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:29:52] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 18:30:59] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 18:31:14] Enter Land: -49,-54 - 75
+[14/02/2023 18:31:56] "404455" - RecipeIndex(75) - LandIndex(75) [-49,-54]
+[14/02/2023 18:31:59] Time difference: 0:03:15
+[14/02/2023 18:31:59] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:32:17] Enter Land: -92,-26 - 76
+[14/02/2023 18:33:02] "A0A414" - RecipeIndex(76) - LandIndex(76) [-92,-26]
+[14/02/2023 18:33:04] Time difference: 0:01:05
+[14/02/2023 18:33:04] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:33:23] Enter Land: -85,-110 - 77
+[14/02/2023 18:34:10] "4A4A14" - RecipeIndex(77) - LandIndex(77) [-85,-110]
+[14/02/2023 18:34:12] Time difference: 0:01:07
+[14/02/2023 18:34:12] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:34:30] Enter Land: -83,17 - 78
+[14/02/2023 18:35:04] "40A4A4" - RecipeIndex(78) - LandIndex(78) [-83,17]
+[14/02/2023 18:35:06] Time difference: 0:00:53
+[14/02/2023 18:35:06] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:35:22] Enter Land: -48,-76 - 79
+[14/02/2023 18:36:04] "404A1A" - RecipeIndex(79) - LandIndex(79) [-48,-76]
+[14/02/2023 18:36:06] Time difference: 0:01:00
+[14/02/2023 18:36:07] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:36:25] Enter Land: -48,-56 - 80
+[14/02/2023 18:37:10] "A04A14" - RecipeIndex(80) - LandIndex(80) [-48,-56]
+[14/02/2023 18:37:12] Time difference: 0:01:05
+[14/02/2023 18:37:12] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:37:31] Enter Land: -48,-55 - 81
+[14/02/2023 18:38:22] "4A44A4" - RecipeIndex(81) - LandIndex(81) [-48,-55]
+[14/02/2023 18:38:24] Time difference: 0:01:11
+[14/02/2023 18:38:24] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:38:42] Enter Land: -48,-54 - 82
+[14/02/2023 18:39:24] "40A41A" - RecipeIndex(82) - LandIndex(82) [-48,-54]
+[14/02/2023 18:39:26] Time difference: 0:01:02
+[14/02/2023 18:39:26] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:39:44] Enter Land: -92,-25 - 83
+[14/02/2023 18:40:28] "A044A4" - RecipeIndex(83) - LandIndex(83) [-92,-25]
+[14/02/2023 18:40:30] Time difference: 0:01:03
+[14/02/2023 18:40:30] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:40:48] Enter Land: -112,-1 - 84
+[14/02/2023 18:41:22] "4A441A" - RecipeIndex(84) - LandIndex(84) [-112,-1]
+[14/02/2023 18:41:24] Time difference: 0:00:54
+[14/02/2023 18:41:24] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:41:42] Enter Land: -83,18 - 85
+[14/02/2023 18:42:22] "A0441A" - RecipeIndex(85) - LandIndex(85) [-83,18]
+[14/02/2023 18:42:24] Time difference: 0:01:00
+[14/02/2023 18:42:24] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:42:42] Enter Land: -87,-65 - 86
+[14/02/2023 18:43:16] "404414" - RecipeIndex(86) - LandIndex(86) [-87,-65]
+[14/02/2023 18:43:18] Time difference: 0:00:53
+[14/02/2023 18:43:18] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:43:36] Enter Land: -83,16 - 87
+[14/02/2023 18:44:19] "404414" - RecipeIndex(87) - LandIndex(87) [-83,16]
+[14/02/2023 18:44:21] Time difference: 0:01:03
+[14/02/2023 18:44:21] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:44:40] Enter Land: -83,19 - 88
+[14/02/2023 18:45:26] "404414" - RecipeIndex(88) - LandIndex(88) [-83,19]
+[14/02/2023 18:45:28] Time difference: 0:01:06
+[14/02/2023 18:45:28] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:45:46] Enter Land: -87,-44 - 89
+
+14.Feb 18:45
+[14/02/2023 18:46:34] "771618" - RecipeIndex(89) - LandIndex(89) [-87,-44]
+[14/02/2023 18:46:36] Time difference: 0:01:07
+[14/02/2023 18:46:36] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:46:54] Enter Land: -101,29 - 90
+[14/02/2023 18:47:27] "877618" - RecipeIndex(90) - LandIndex(90) [-101,29]
+[14/02/2023 18:47:30] Time difference: 0:00:54
+[14/02/2023 18:47:30] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:47:48] Enter Land: -101,-43 - 91
+[14/02/2023 18:48:32] "867718" - RecipeIndex(91) - LandIndex(91) [-101,-43]
+[14/02/2023 18:48:34] Time difference: 0:01:04
+[14/02/2023 18:48:34] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:48:52] Enter Land: -39,-132 - 92
+[14/02/2023 18:49:38] "861778" - RecipeIndex(92) - LandIndex(92) [-39,-132]
+[14/02/2023 18:49:40] Time difference: 0:01:06
+[14/02/2023 18:49:40] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:49:58] Enter Land: -38,-133 - 93
+[14/02/2023 18:50:50] "861677" - RecipeIndex(93) - LandIndex(93) [-38,-133]
+[14/02/2023 18:50:52] Time difference: 0:01:11
+[14/02/2023 18:50:52] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:51:10] Enter Land: -38,-132 - 94
+[14/02/2023 18:51:51] "767618" - RecipeIndex(94) - LandIndex(94) [-38,-132]
+[14/02/2023 18:51:54] Time difference: 0:01:01
+[14/02/2023 18:51:54] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:52:12] Enter Land: -38,-131 - 95
+[14/02/2023 18:52:55] "871718" - RecipeIndex(95) - LandIndex(95) [-38,-131]
+[14/02/2023 18:52:57] Time difference: 0:01:03
+[14/02/2023 18:52:58] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:53:16] Enter Land: -38,-130 - 96
+[14/02/2023 18:53:50] "867678" - RecipeIndex(96) - LandIndex(96) [-38,-130]
+[14/02/2023 18:53:52] Time difference: 0:00:54
+[14/02/2023 18:53:52] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:54:08] Enter Land: -37,-125 - 97
+[14/02/2023 18:54:55] "861717" - RecipeIndex(97) - LandIndex(97) [-37,-125]
+[14/02/2023 18:54:57] Time difference: 0:01:05
+[14/02/2023 18:54:57] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:55:15] Enter Land: -37,-103 - 98
+[14/02/2023 18:56:05] "761718" - RecipeIndex(98) - LandIndex(98) [-37,-103]
+[14/02/2023 18:56:07] Time difference: 0:01:09
+[14/02/2023 18:56:07] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:56:25] Enter Land: -36,-104 - 99
+[14/02/2023 18:57:17] "871678" - RecipeIndex(99) - LandIndex(99) [-36,-104]
+[14/02/2023 18:57:19] Time difference: 0:01:11
+[14/02/2023 18:57:19] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:57:35] Enter Land: -36,-103 - 100
+[14/02/2023 18:58:28] "867617" - RecipeIndex(100) - LandIndex(100) [-36,-103]
+[14/02/2023 18:58:30] Time difference: 0:01:11
+[14/02/2023 18:58:30] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 18:58:49] Enter Land: -36,-102 - 101
+[14/02/2023 18:59:44] "761678" - RecipeIndex(101) - LandIndex(101) [-36,-102]
+[14/02/2023 18:59:46] Time difference: 0:01:15
+[14/02/2023 18:59:46] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 19:00:55] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 19:01:12] Enter Land: -36,-101 - 102
+[14/02/2023 19:01:46] "871617" - RecipeIndex(102) - LandIndex(102) [-36,-101]
+[14/02/2023 19:01:48] Time difference: 0:02:01
+[14/02/2023 19:01:48] Actions completed: TypeUrlScript, CheckConsoleScript, Nursery, Items, CheckGrowingPlantScript, Minerals, MineralsScript, Add Axie, AxieScript, Grow Button, CheckPlantedWeedScript, IncreaseLandIndexScript, MeasureTimeScript
+[14/02/2023 19:02:56] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 19:04:03] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 19:05:10] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 19:06:17] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 19:07:24] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[14/02/2023 19:07:24] ERROR_OCCURED: action:"TypeUrlScript" Image "data/reference_images/settings_button.png" not found in time (5 times tried), breaking the loop...
+[14/02/2023 19:07:24] Enter Land: -35,-105 - 103
+[14/02/2023 19:07:25] Actions completed: TypeUrlScript
+[14/02/2023 19:07:25] <--- Script Finished --->
+
+14.Feb 19:07
+[15/02/2023 00:05:56] 
+
+
+
+<--- Starting Script --->
+[15/02/2023 00:05:56] Trying to plant: 105 recipes
+[15/02/2023 00:05:56] Starting at land index: 120 -144,-55 - going to 225 -129,0
+[15/02/2023 00:06:39] Enter Land: -144,-55 - 120
+[15/02/2023 00:07:12] Growing Plant found: tumbleweed_04 120 -144,-55
+[15/02/2023 00:07:14] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:07:35] Enter Land: -144,-22 - 121
+[15/02/2023 00:08:02] Growing Plant found: tumbleweed_04 121 -144,-22
+[15/02/2023 00:08:04] Time difference: 0:00:49
+[15/02/2023 00:08:04] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:09:12] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[15/02/2023 00:09:32] Enter Land: -140,-19 - 122
+[15/02/2023 00:09:59] Growing Plant found: clover_03 122 -140,-19
+[15/02/2023 00:10:01] Time difference: 0:01:56
+[15/02/2023 00:10:01] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:10:19] Enter Land: -140,-14 - 123
+[15/02/2023 00:10:49] Growing Plant found: clover_03 123 -140,-14
+[15/02/2023 00:10:51] Time difference: 0:00:50
+[15/02/2023 00:10:51] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:11:10] Enter Land: -140,-13 - 124
+[15/02/2023 00:11:32] Growing Plant found: clover_03 124 -140,-13
+[15/02/2023 00:11:35] Time difference: 0:00:43
+[15/02/2023 00:11:35] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:11:53] Enter Land: -139,-86 - 125
+[15/02/2023 00:12:16] Growing Plant found: tumbleweed_04 125 -139,-86
+[15/02/2023 00:12:18] Time difference: 0:00:43
+[15/02/2023 00:12:18] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:12:37] Enter Land: -139,-85 - 126
+[15/02/2023 00:13:03] Growing Plant found: tumbleweed_04 126 -139,-85
+[15/02/2023 00:13:05] Time difference: 0:00:46
+[15/02/2023 00:13:05] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:13:24] Enter Land: -139,-13 - 127
+[15/02/2023 00:13:46] Growing Plant found: clover_04 127 -139,-13
+[15/02/2023 00:13:49] Time difference: 0:00:43
+[15/02/2023 00:13:49] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:14:07] Enter Land: -138,-87 - 128
+[15/02/2023 00:14:30] Growing Plant found: tumbleweed_04 128 -138,-87
+[15/02/2023 00:14:32] Time difference: 0:00:43
+[15/02/2023 00:14:32] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:14:51] Enter Land: -138,-86 - 129
+[15/02/2023 00:15:17] Growing Plant found: tumbleweed_04 129 -138,-86
+[15/02/2023 00:15:19] Time difference: 0:00:46
+[15/02/2023 00:15:19] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:15:40] Enter Land: -138,-85 - 130
+[15/02/2023 00:16:03] Growing Plant found: tumbleweed_05 130 -138,-85
+[15/02/2023 00:16:05] Time difference: 0:00:46
+[15/02/2023 00:16:06] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:16:24] Enter Land: -138,-84 - 131
+[15/02/2023 00:16:47] Growing Plant found: tumbleweed_04 131 -138,-84
+[15/02/2023 00:16:49] Time difference: 0:00:43
+[15/02/2023 00:16:49] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:17:08] Enter Land: -138,-60 - 132
+[15/02/2023 00:17:34] Growing Plant found: tumbleweed_04 132 -138,-60
+[15/02/2023 00:17:36] Time difference: 0:00:46
+[15/02/2023 00:17:36] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:17:57] Enter Land: -137,-88 - 133
+[15/02/2023 00:18:20] Growing Plant found: tumbleweed_04 133 -137,-88
+[15/02/2023 00:18:22] Time difference: 0:00:46
+[15/02/2023 00:18:22] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:18:41] Enter Land: -137,-87 - 134
+[15/02/2023 00:19:03] Growing Plant found: tumbleweed_04 134 -137,-87
+[15/02/2023 00:19:06] Time difference: 0:00:43
+[15/02/2023 00:19:06] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:19:24] Enter Land: -137,-86 - 135
+[15/02/2023 00:19:47] Growing Plant found: tumbleweed_04 135 -137,-86
+[15/02/2023 00:19:49] Time difference: 0:00:43
+[15/02/2023 00:19:49] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:20:08] Enter Land: -137,-85 - 136
+[15/02/2023 00:20:31] Growing Plant found: tumbleweed_04 136 -137,-85
+[15/02/2023 00:20:33] Time difference: 0:00:43
+[15/02/2023 00:20:33] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:20:52] Enter Land: -137,-84 - 137
+[15/02/2023 00:21:14] Growing Plant found: tumbleweed_04 137 -137,-84
+[15/02/2023 00:21:16] Time difference: 0:00:43
+[15/02/2023 00:21:17] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:21:35] Enter Land: -137,-83 - 138
+[15/02/2023 00:21:58] Growing Plant found: tumbleweed_03 138 -137,-83
+[15/02/2023 00:22:00] Time difference: 0:00:43
+[15/02/2023 00:22:00] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:22:19] Enter Land: -136,-90 - 139
+[15/02/2023 00:22:41] Growing Plant found: tumbleweed_03 139 -136,-90
+[15/02/2023 00:22:44] Time difference: 0:00:43
+[15/02/2023 00:22:44] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:23:52] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[15/02/2023 00:24:09] Enter Land: -136,-89 - 140
+[15/02/2023 00:24:35] Growing Plant found: grass_05 140 -136,-89
+[15/02/2023 00:24:38] Time difference: 0:01:54
+[15/02/2023 00:24:38] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:24:56] Enter Land: -136,-88 - 141
+[15/02/2023 00:25:19] Growing Plant found: grass_05 141 -136,-88
+[15/02/2023 00:25:21] Time difference: 0:00:43
+[15/02/2023 00:25:21] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:25:40] Enter Land: -136,-87 - 142
+[15/02/2023 00:26:03] Growing Plant found: tumbleweed_03 142 -136,-87
+[15/02/2023 00:26:05] Time difference: 0:00:43
+[15/02/2023 00:26:05] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:26:23] Enter Land: -136,-86 - 143
+[15/02/2023 00:26:46] Growing Plant found: tumbleweed_03 143 -136,-86
+[15/02/2023 00:26:48] Time difference: 0:00:43
+[15/02/2023 00:26:49] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:27:07] Enter Land: -136,-85 - 144
+[15/02/2023 00:27:30] Growing Plant found: tumbleweed_03 144 -136,-85
+[15/02/2023 00:27:32] Time difference: 0:00:43
+[15/02/2023 00:27:32] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:28:40] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[15/02/2023 00:28:58] Enter Land: -136,-84 - 145
+[15/02/2023 00:29:21] Growing Plant found: grass_05 145 -136,-84
+[15/02/2023 00:29:23] Time difference: 0:01:50
+[15/02/2023 00:29:23] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:29:42] Enter Land: -136,-83 - 146
+[15/02/2023 00:30:04] Growing Plant found: tumbleweed_03 146 -136,-83
+[15/02/2023 00:30:06] Time difference: 0:00:43
+[15/02/2023 00:30:07] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:30:25] Enter Land: -136,-82 - 147
+[15/02/2023 00:30:48] Growing Plant found: grass_05 147 -136,-82
+[15/02/2023 00:30:50] Time difference: 0:00:43
+[15/02/2023 00:30:50] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:31:58] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[15/02/2023 00:32:16] Enter Land: -136,-42 - 148
+[15/02/2023 00:32:39] Growing Plant found: grass_05 148 -136,-42
+[15/02/2023 00:32:41] Time difference: 0:01:50
+[15/02/2023 00:32:41] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:33:00] Enter Land: -136,-41 - 149
+[15/02/2023 00:33:22] Growing Plant found: tumbleweed_03 149 -136,-41
+[15/02/2023 00:33:24] Time difference: 0:00:43
+[15/02/2023 00:33:25] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:33:40] Enter Land: -135,-91 - 150
+[15/02/2023 00:34:03] Growing Plant found: tumbleweed_03 150 -135,-91
+[15/02/2023 00:34:05] Time difference: 0:00:40
+[15/02/2023 00:34:05] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:34:24] Enter Land: -135,-90 - 151
+[15/02/2023 00:34:47] Growing Plant found: tumbleweed_04 151 -135,-90
+[15/02/2023 00:34:49] Time difference: 0:00:43
+[15/02/2023 00:34:49] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:35:07] Enter Land: -135,-89 - 152
+[15/02/2023 00:35:30] Growing Plant found: tumbleweed_03 152 -135,-89
+[15/02/2023 00:35:32] Time difference: 0:00:43
+[15/02/2023 00:35:32] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:36:41] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[15/02/2023 00:36:58] Enter Land: -135,-88 - 153
+[15/02/2023 00:37:21] Growing Plant found: tumbleweed_04 153 -135,-88
+[15/02/2023 00:37:23] Time difference: 0:01:50
+[15/02/2023 00:37:23] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:37:42] Enter Land: -135,-87 - 154
+[15/02/2023 00:38:04] Growing Plant found: tumbleweed_04 154 -135,-87
+[15/02/2023 00:38:07] Time difference: 0:00:43
+[15/02/2023 00:38:07] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:39:15] TRYING_RELOADING_PAGE: Image "data/reference_images/settings_button.png" not found in time, trying to reload page...
+[15/02/2023 00:39:33] Enter Land: -135,-86 - 155
+[15/02/2023 00:39:55] Growing Plant found: tumbleweed_04 155 -135,-86
+[15/02/2023 00:39:58] Time difference: 0:01:50
+[15/02/2023 00:39:58] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:40:16] Enter Land: -135,-85 - 156
+[15/02/2023 00:40:39] Growing Plant found: tumbleweed_04 156 -135,-85
+[15/02/2023 00:40:41] Time difference: 0:00:43
+[15/02/2023 00:40:41] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:41:00] Enter Land: -135,-84 - 157
+[15/02/2023 00:41:22] Growing Plant found: tumbleweed_04 157 -135,-84
+[15/02/2023 00:41:25] Time difference: 0:00:43
+[15/02/2023 00:41:25] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:41:43] Enter Land: -135,-83 - 158
+[15/02/2023 00:42:06] Growing Plant found: tumbleweed_04 158 -135,-83
+[15/02/2023 00:42:08] Time difference: 0:00:43
+[15/02/2023 00:42:08] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:42:24] Enter Land: -135,-82 - 159
+[15/02/2023 00:42:47] Growing Plant found: tumbleweed_04 159 -135,-82
+[15/02/2023 00:42:49] Time difference: 0:00:40
+[15/02/2023 00:42:49] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:43:08] Enter Land: -134,-92 - 160
+[15/02/2023 00:43:30] Growing Plant found: tumbleweed_04 160 -134,-92
+[15/02/2023 00:43:33] Time difference: 0:00:43
+[15/02/2023 00:43:33] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:43:51] Enter Land: -134,-91 - 161
+[15/02/2023 00:44:30] Growing Plant found: coffee_02 161 -134,-91
+[15/02/2023 00:44:32] Time difference: 0:00:59
+[15/02/2023 00:44:33] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:44:51] Enter Land: -134,-90 - 162
+[15/02/2023 00:45:14] Growing Plant found: tumbleweed_04 162 -134,-90
+[15/02/2023 00:45:16] Time difference: 0:00:43
+[15/02/2023 00:45:16] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:45:35] Enter Land: -134,-89 - 163
+[15/02/2023 00:45:57] Growing Plant found: tumbleweed_04 163 -134,-89
+[15/02/2023 00:46:00] Time difference: 0:00:43
+[15/02/2023 00:46:00] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:46:18] Enter Land: -134,-88 - 164
+[15/02/2023 00:46:41] Growing Plant found: tumbleweed_04 164 -134,-88
+[15/02/2023 00:46:43] Time difference: 0:00:43
+[15/02/2023 00:46:43] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:47:02] Enter Land: -134,-87 - 165
+[15/02/2023 00:47:24] Growing Plant found: deschampsia_01 165 -134,-87
+[15/02/2023 00:47:27] Time difference: 0:00:43
+[15/02/2023 00:47:27] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:47:45] Enter Land: -134,-86 - 166
+[15/02/2023 00:48:08] Growing Plant found: tumbleweed_05 166 -134,-86
+[15/02/2023 00:48:10] Time difference: 0:00:43
+[15/02/2023 00:48:10] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:48:29] Enter Land: -134,-85 - 167
+[15/02/2023 00:48:51] Growing Plant found: tumbleweed_04 167 -134,-85
+[15/02/2023 00:48:54] Time difference: 0:00:43
+[15/02/2023 00:48:54] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:49:12] Enter Land: -134,-84 - 168
+[15/02/2023 00:49:35] Growing Plant found: tumbleweed_04 168 -134,-84
+[15/02/2023 00:49:37] Time difference: 0:00:43
+[15/02/2023 00:49:38] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:49:56] Enter Land: -134,-83 - 169
+[15/02/2023 00:50:19] Growing Plant found: tumbleweed_04 169 -134,-83
+[15/02/2023 00:50:21] Time difference: 0:00:43
+[15/02/2023 00:50:21] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:50:39] Enter Land: -134,-82 - 170
+[15/02/2023 00:51:02] Growing Plant found: tumbleweed_04 170 -134,-82
+[15/02/2023 00:51:04] Time difference: 0:00:43
+[15/02/2023 00:51:05] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:51:26] Enter Land: -133,-93 - 171
+[15/02/2023 00:51:48] Growing Plant found: tumbleweed_04 171 -133,-93
+[15/02/2023 00:51:51] Time difference: 0:00:46
+[15/02/2023 00:51:51] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:52:12] Enter Land: -133,-92 - 172
+[15/02/2023 00:52:35] Growing Plant found: tumbleweed_04 172 -133,-92
+[15/02/2023 00:52:37] Time difference: 0:00:46
+[15/02/2023 00:52:37] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:52:56] Enter Land: -133,-91 - 173
+[15/02/2023 00:53:18] Growing Plant found: tumbleweed_04 173 -133,-91
+[15/02/2023 00:53:21] Time difference: 0:00:43
+[15/02/2023 00:53:21] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:53:42] Enter Land: -133,-90 - 174
+[15/02/2023 00:54:05] Growing Plant found: tumbleweed_05 174 -133,-90
+[15/02/2023 00:54:07] Time difference: 0:00:46
+[15/02/2023 00:54:07] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:54:26] Enter Land: -133,-89 - 175
+[15/02/2023 00:54:48] Growing Plant found: tumbleweed_04 175 -133,-89
+[15/02/2023 00:54:51] Time difference: 0:00:43
+[15/02/2023 00:54:51] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:55:09] Enter Land: -133,-88 - 176
+[15/02/2023 00:55:32] Growing Plant found: tumbleweed_04 176 -133,-88
+[15/02/2023 00:55:34] Time difference: 0:00:43
+[15/02/2023 00:55:34] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:55:53] Enter Land: -133,-87 - 177
+[15/02/2023 00:56:19] Growing Plant found: tumbleweed_04 177 -133,-87
+[15/02/2023 00:56:21] Time difference: 0:00:46
+[15/02/2023 00:56:21] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:56:40] Enter Land: -133,-86 - 178
+[15/02/2023 00:57:02] Growing Plant found: tumbleweed_04 178 -133,-86
+[15/02/2023 00:57:05] Time difference: 0:00:43
+[15/02/2023 00:57:05] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:57:23] Enter Land: -133,-85 - 179
+[15/02/2023 00:57:46] Growing Plant found: tumbleweed_04 179 -133,-85
+[15/02/2023 00:57:48] Time difference: 0:00:43
+[15/02/2023 00:57:48] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:58:07] Enter Land: -133,-84 - 180
+[15/02/2023 00:58:46] Growing Plant found: treetwisted_01_snow 180 -133,-84
+[15/02/2023 00:58:48] Time difference: 0:00:59
+[15/02/2023 00:58:48] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:59:07] Enter Land: -133,-83 - 181
+[15/02/2023 00:59:29] Growing Plant found: tumbleweed_05 181 -133,-83
+[15/02/2023 00:59:32] Time difference: 0:00:43
+[15/02/2023 00:59:32] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 00:59:50] Enter Land: -133,-82 - 182
+[15/02/2023 01:00:13] Growing Plant found: tumbleweed_03 182 -133,-82
+[15/02/2023 01:00:15] Time difference: 0:00:43
+[15/02/2023 01:00:16] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:00:37] Enter Land: -133,-83 - 183
+[15/02/2023 01:00:49] Time difference: 0:00:33
+[15/02/2023 01:00:49] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:01:11] Enter Land: -133,-82 - 184
+[15/02/2023 01:01:24] Time difference: 0:00:34
+[15/02/2023 01:01:24] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:01:45] Enter Land: -82,18 - 185
+[15/02/2023 01:02:08] Growing Plant found: burdock_03 185 -82,18
+[15/02/2023 01:02:10] Time difference: 0:00:46
+[15/02/2023 01:02:10] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:02:29] Enter Land: -132,-91 - 186
+[15/02/2023 01:02:52] Growing Plant found: grass_05 186 -132,-91
+[15/02/2023 01:02:54] Time difference: 0:00:43
+[15/02/2023 01:02:54] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:03:13] Enter Land: -132,-90 - 187
+[15/02/2023 01:03:35] Growing Plant found: grass_05 187 -132,-90
+[15/02/2023 01:03:38] Time difference: 0:00:43
+[15/02/2023 01:03:38] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:03:56] Enter Land: -132,-89 - 188
+[15/02/2023 01:04:19] Growing Plant found: grass_05 188 -132,-89
+[15/02/2023 01:04:21] Time difference: 0:00:43
+[15/02/2023 01:04:21] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:04:40] Enter Land: -132,-88 - 189
+[15/02/2023 01:05:02] Growing Plant found: grass_05 189 -132,-88
+[15/02/2023 01:05:05] Time difference: 0:00:43
+[15/02/2023 01:05:05] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:05:23] Enter Land: -132,-87 - 190
+[15/02/2023 01:05:46] Growing Plant found: grass_05 190 -132,-87
+[15/02/2023 01:05:48] Time difference: 0:00:43
+[15/02/2023 01:05:48] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:06:07] Enter Land: -132,-86 - 191
+[15/02/2023 01:06:29] Growing Plant found: grass_05 191 -132,-86
+[15/02/2023 01:06:32] Time difference: 0:00:43
+[15/02/2023 01:06:32] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:06:50] Enter Land: -132,-85 - 192
+[15/02/2023 01:07:13] Growing Plant found: grass_05 192 -132,-85
+[15/02/2023 01:07:15] Time difference: 0:00:43
+[15/02/2023 01:07:16] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:07:37] Enter Land: -132,-84 - 193
+[15/02/2023 01:07:59] Growing Plant found: grass_05 193 -132,-84
+[15/02/2023 01:08:02] Time difference: 0:00:46
+[15/02/2023 01:08:02] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:08:20] Enter Land: -132,-83 - 194
+[15/02/2023 01:08:43] Growing Plant found: grass_05 194 -132,-83
+[15/02/2023 01:08:46] Time difference: 0:00:43
+[15/02/2023 01:08:46] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:09:04] Enter Land: -132,-82 - 195
+[15/02/2023 01:09:27] Growing Plant found: tumbleweed_03 195 -132,-82
+[15/02/2023 01:09:29] Time difference: 0:00:43
+[15/02/2023 01:09:29] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:09:53] Enter Land: -131,-91 - 196
+[15/02/2023 01:10:17] Growing Plant found: tumbleweed_03 196 -131,-91
+[15/02/2023 01:10:19] Time difference: 0:00:49
+[15/02/2023 01:10:19] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:10:41] Enter Land: -131,-90 - 197
+[15/02/2023 01:11:20] Growing Plant found: poinsettia_s02r 197 -131,-90
+[15/02/2023 01:11:23] Time difference: 0:01:03
+[15/02/2023 01:11:23] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:11:47] Enter Land: -131,-89 - 198
+[15/02/2023 01:12:11] Growing Plant found: tumbleweed_03 198 -131,-89
+[15/02/2023 01:12:13] Time difference: 0:00:50
+[15/02/2023 01:12:13] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:12:38] Enter Land: -131,-88 - 199
+[15/02/2023 01:13:04] Growing Plant found: tumbleweed_03 199 -131,-88
+[15/02/2023 01:13:07] Time difference: 0:00:53
+[15/02/2023 01:13:07] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:13:25] Enter Land: -131,-87 - 200
+[15/02/2023 01:13:48] Growing Plant found: tumbleweed_03 200 -131,-87
+[15/02/2023 01:13:50] Time difference: 0:00:43
+[15/02/2023 01:13:50] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:14:09] Enter Land: -131,-86 - 201
+[15/02/2023 01:14:32] Growing Plant found: tumbleweed_04 201 -131,-86
+[15/02/2023 01:14:34] Time difference: 0:00:43
+[15/02/2023 01:14:34] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:14:52] Enter Land: -131,-85  - 202
+[15/02/2023 01:15:15] Growing Plant found: tumbleweed_04 202 -131,-85 
+[15/02/2023 01:15:17] Time difference: 0:00:43
+[15/02/2023 01:15:17] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:15:39] Enter Land: -131,-84 - 203
+[15/02/2023 01:16:01] Growing Plant found: tumbleweed_04 203 -131,-84
+[15/02/2023 01:16:04] Time difference: 0:00:46
+[15/02/2023 01:16:04] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:16:22] Enter Land: -131,-83 - 204
+[15/02/2023 01:16:45] Growing Plant found: tumbleweed_03 204 -131,-83
+[15/02/2023 01:16:47] Time difference: 0:00:43
+[15/02/2023 01:16:48] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:17:06] Enter Land: -131,-82 - 205
+[15/02/2023 01:17:29] Growing Plant found: tumbleweed_04 205 -131,-82
+[15/02/2023 01:17:31] Time difference: 0:00:43
+[15/02/2023 01:17:31] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:17:53] Enter Land: -130,-90 - 206
+[15/02/2023 01:18:15] Growing Plant found: tumbleweed_04 206 -130,-90
+[15/02/2023 01:18:18] Time difference: 0:00:46
+[15/02/2023 01:18:18] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:18:36] Enter Land: -130,-89 - 207
+[15/02/2023 01:18:59] Growing Plant found: tumbleweed_04 207 -130,-89
+[15/02/2023 01:19:01] Time difference: 0:00:43
+[15/02/2023 01:19:01] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:19:20] Enter Land: -130,-88 - 208
+[15/02/2023 01:19:43] Growing Plant found: tumbleweed_04 208 -130,-88
+[15/02/2023 01:19:45] Time difference: 0:00:43
+[15/02/2023 01:19:45] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:20:04] Enter Land: -130,-87 - 209
+[15/02/2023 01:20:26] Growing Plant found: tumbleweed_03 209 -130,-87
+[15/02/2023 01:20:29] Time difference: 0:00:43
+[15/02/2023 01:20:29] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:20:47] Enter Land: -130,-86 - 210
+[15/02/2023 01:21:10] Growing Plant found: tumbleweed_03 210 -130,-86
+[15/02/2023 01:21:12] Time difference: 0:00:43
+[15/02/2023 01:21:12] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:21:31] Enter Land: -130,-85 - 211
+[15/02/2023 01:21:54] Growing Plant found: tumbleweed_03 211 -130,-85
+[15/02/2023 01:21:56] Time difference: 0:00:43
+[15/02/2023 01:21:56] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:22:15] Enter Land: -130,-84 - 212
+[15/02/2023 01:22:41] Growing Plant found: tumbleweed_03 212 -130,-84
+[15/02/2023 01:22:43] Time difference: 0:00:47
+[15/02/2023 01:22:43] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:23:02] Enter Land: -130,-83 - 213
+[15/02/2023 01:23:24] Growing Plant found: tumbleweed_03 213 -130,-83
+[15/02/2023 01:23:27] Time difference: 0:00:43
+[15/02/2023 01:23:27] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:23:48] Enter Land: -130,-82 - 214
+[15/02/2023 01:24:10] Growing Plant found: tumbleweed_03 214 -130,-82
+[15/02/2023 01:24:13] Time difference: 0:00:46
+[15/02/2023 01:24:13] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:24:31] Enter Land: -129,-89 - 215
+[15/02/2023 01:24:54] Growing Plant found: tumbleweed_03 215 -129,-89
+[15/02/2023 01:24:57] Time difference: 0:00:43
+[15/02/2023 01:24:57] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:25:15] Enter Land: -129,-88 - 216
+[15/02/2023 01:25:38] Growing Plant found: tumbleweed_04 216 -129,-88
+[15/02/2023 01:25:40] Time difference: 0:00:43
+[15/02/2023 01:25:40] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:25:59] Enter Land: -129,-87 - 217
+[15/02/2023 01:26:22] Growing Plant found: tumbleweed_03 217 -129,-87
+[15/02/2023 01:26:24] Time difference: 0:00:43
+[15/02/2023 01:26:24] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:26:42] Enter Land: -129,-86 - 218
+[15/02/2023 01:27:05] Growing Plant found: tumbleweed_03 218 -129,-86
+[15/02/2023 01:27:07] Time difference: 0:00:43
+[15/02/2023 01:27:08] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:27:29] Enter Land: -129,-85 - 219
+[15/02/2023 01:27:51] Growing Plant found: tumbleweed_03 219 -129,-85
+[15/02/2023 01:27:54] Time difference: 0:00:46
+[15/02/2023 01:27:54] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:28:12] Enter Land: -129,-84 - 220
+[15/02/2023 01:28:35] Growing Plant found: tumbleweed_03 220 -129,-84
+[15/02/2023 01:28:37] Time difference: 0:00:43
+[15/02/2023 01:28:37] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:28:56] Enter Land: -129,-83 - 221
+[15/02/2023 01:29:19] Growing Plant found: tumbleweed_03 221 -129,-83
+[15/02/2023 01:29:21] Time difference: 0:00:43
+[15/02/2023 01:29:21] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:29:43] Enter Land: -129,-4 - 222
+[15/02/2023 01:30:06] Growing Plant found: grass_04 222 -129,-4
+[15/02/2023 01:30:08] Time difference: 0:00:47
+[15/02/2023 01:30:08] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:30:29] Enter Land: -129,-3 - 223
+[15/02/2023 01:30:52] Growing Plant found: clover_03 223 -129,-3
+[15/02/2023 01:30:54] Time difference: 0:00:46
+[15/02/2023 01:30:55] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:31:13] Enter Land: -129,-1 - 224
+[15/02/2023 01:31:36] Growing Plant found: clover_03 224 -129,-1
+[15/02/2023 01:31:38] Time difference: 0:00:43
+[15/02/2023 01:31:38] Actions completed: TypeUrlScript, CheckConsoleScript, MiddleRightScreenClick, Nursery, Items, CheckGrowingPlantScript, IncreaseLandIndexScript, MeasureTimeScript
+[15/02/2023 01:31:38] <--- Script Finished --->

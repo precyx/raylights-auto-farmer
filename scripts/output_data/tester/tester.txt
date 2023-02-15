@@ -1,0 +1,4 @@
+'Coordinate #1':[720,675],
+'Coordinate #2':[720,675],
+'Coordinate #3':[720,675],
+'Coordinate #4':[720,675],
